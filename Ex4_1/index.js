@@ -1,4 +1,5 @@
 const yargs = require("yargs");
+const calc = require("./calc");
 
 yargs.version("1.1.0");
 
@@ -11,26 +12,6 @@ const mult = (a, b) => a * b;
 const pow = (a) => Math.pow(2, a);
 
 // console.log(yargs.argv);
-yargs.command({
-  command: "add",
-  describe: "add 2 numbers",
-  builder: {
-    x: {
-      type: "integer",
-      demandCommand: true,
-    },
-    y: {
-      type: "integer",
-      demandCommand: true,
-    },
-  },
-  handler(argv) {
-    console.log(argv.x + argv.y);
-  },
-});
-
-let result = "";
-yargs.parse();
 
 // console.log(`${action} of  ${a} , ${b}: ${result}`);
 
