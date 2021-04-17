@@ -1,0 +1,202 @@
+{ "workers": [{
+  "id": 1,
+  "name": "Camala Werendell",
+  "isActive": true,
+  "email": "cwerendell0@booking.com"
+}, {
+  "id": 2,
+  "name": "Morganne Gettings",
+  "isActive": false,
+  "email": "mgettings1@geocities.jp"
+}, {
+  "id": 3,
+  "name": "Nil Rebbeck",
+  "isActive": true,
+  "email": "nrebbeck2@miibeian.gov.cn"
+}, {
+  "id": 4,
+  "name": "Benjamin Coleson",
+  "isActive": false,
+  "email": "bcoleson3@chicagotribune.com"
+}, {
+  "id": 5,
+  "name": "Ellery Berkeley",
+  "isActive": false,
+  "email": "eberkeley4@com.com"
+}, {
+  "id": 6,
+  "name": "Gabriell Schirak",
+  "isActive": false,
+  "email": "gschirak5@4shared.com"
+}, {
+  "id": 7,
+  "name": "Erinn Barrowcliffe",
+  "isActive": false,
+  "email": "ebarrowcliffe6@spiegel.de"
+}, {
+  "id": 8,
+  "name": "Adelle Febry",
+  "isActive": true,
+  "email": "afebry7@chronoengine.com"
+}, {
+  "id": 9,
+  "name": "Jeff Beig",
+  "isActive": true,
+  "email": "jbeig8@gravatar.com"
+}, {
+  "id": 10,
+  "name": "Huey Marrill",
+  "isActive": false,
+  "email": "hmarrill9@narod.ru"
+}, {
+  "id": 11,
+  "name": "Ardisj Eseler",
+  "isActive": true,
+  "email": "aeselera@blogspot.com"
+}, {
+  "id": 12,
+  "name": "Herculie Rivallant",
+  "isActive": true,
+  "email": "hrivallantb@wired.com"
+}, {
+  "id": 13,
+  "name": "Ludvig Roman",
+  "isActive": true,
+  "email": "lromanc@behance.net"
+}, {
+  "id": 14,
+  "name": "Meris Catford",
+  "isActive": true,
+  "email": "mcatfordd@t-online.de"
+}, {
+  "id": 15,
+  "name": "Brander Chattey",
+  "isActive": true,
+  "email": "bchatteye@infoseek.co.jp"
+}, {
+  "id": 16,
+  "name": "Claiborn Nobles",
+  "isActive": false,
+  "email": "cnoblesf@t.co"
+}, {
+  "id": 17,
+  "name": "Bourke Seven",
+  "isActive": false,
+  "email": "bseveng@issuu.com"
+}, {
+  "id": 18,
+  "name": "Sophronia Burkert",
+  "isActive": true,
+  "email": "sburkerth@dion.ne.jp"
+}, {
+  "id": 19,
+  "name": "Livvie Sellwood",
+  "isActive": true,
+  "email": "lsellwoodi@tmall.com"
+}, {
+  "id": 20,
+  "name": "Thorstein MacCroary",
+  "isActive": false,
+  "email": "tmaccroaryj@livejournal.com"
+}, {
+  "id": 21,
+  "name": "Samuel Chaloner",
+  "isActive": false,
+  "email": "schalonerk@over-blog.com"
+}, {
+  "id": 22,
+  "name": "Peggie Carsey",
+  "isActive": true,
+  "email": "pcarseyl@bravesites.com"
+}, {
+  "id": 23,
+  "name": "Arther Deeble",
+  "isActive": false,
+  "email": "adeeblem@cisco.com"
+}, {
+  "id": 24,
+  "name": "Lyndsay Garett",
+  "isActive": false,
+  "email": "lgarettn@chronoengine.com"
+}, {
+  "id": 25,
+  "name": "Arel Gallegos",
+  "isActive": false,
+  "email": "agallegoso@networkadvertising.org"
+}, {
+  "id": 26,
+  "name": "Regan Beak",
+  "isActive": true,
+  "email": "rbeakp@odnoklassniki.ru"
+}, {
+  "id": 27,
+  "name": "Alvy Beet",
+  "isActive": false,
+  "email": "abeetq@marketwatch.com"
+}, {
+  "id": 28,
+  "name": "Xerxes Cancutt",
+  "isActive": false,
+  "email": "xcancuttr@w3.org"
+}, {
+  "id": 29,
+  "name": "Blondie Nutbean",
+  "isActive": false,
+  "email": "bnutbeans@vistaprint.com"
+}, {
+  "id": 30,
+  "name": "Hyacintha Dyche",
+  "isActive": false,
+  "email": "hdychet@accuweather.com"
+}], 
+"rooms" : [{
+  "id": 1,
+  "amount": 7,
+   "isActive": false,
+  "Workers": []
+}, {
+  "id": 2,
+  "amount": 8,
+   "isActive": false,
+  "Workers": []
+}, {
+  "id": 3,
+  "amount": 5,
+   "isActive": true,
+  "Workers": []
+}, {
+  "id": 4,
+  "amount": 6,
+    "isActive": true,
+  "Workers": []
+}, {
+  "id": 5,
+  "amount": 2,
+    "isActive": true,
+  "Workers": []
+}, {
+  "id": 6,
+  "amount": 2,
+    "isActive": true,
+  "Workers": []
+}, {
+  "id": 7,
+  "amount": 5,
+    "isActive": true,
+  "Workers": []
+}, {
+  "id": 8,
+  "amount": 2,
+    "isActive": true,
+ "Workers": []
+}, {
+  "id": 9,
+  "amount": 8,
+    "isActive": true,
+ "Workers": []
+}, {
+  "id": 10,
+  "amount": 6,
+    "isActive": true,
+  "Workers": []
+}]}
