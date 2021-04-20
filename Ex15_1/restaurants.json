@@ -1,0 +1,67 @@
+{"restaurant": [{
+  "name": "Watsica",
+  "address": {
+  "city": "Rushanzhai",
+  "street": "Mallory",
+  "coords": [-20.14, 34.22]
+  },
+  "cuisine": "French",
+  "kosher": true,
+  "reviews": [
+   {
+  "data": "11/27/2020",
+  "score": 1
+}, {
+  "data": "1/24/2021",
+  "score": 2
+}, {
+  "data": "6/16/2020",
+  "score": 8
+}
+  ]
+}, {
+  "name": "Balistreri",
+  "address" : {
+
+  "city": "Kukës",
+  "street": "Lyons",
+  "coords": [-13.86, 34.12]
+  },
+  "cuisine": "Israeli",
+  "kosher": true,
+  "reviews": [
+   {
+  "data": "10/20/2020",
+  "score": 8
+}, {
+  "data": "8/7/2020",
+  "score": 3
+}, {
+  "data": "10/1/2020",
+  "score": 1
+}
+  ]
+}, {
+  "name": "Quigley Group",
+  "address": {
+  "city": "Raszków",
+  "street": "Lien",
+ "coords":[  -32.07,  34.22]
+  },
+  "cuisine": "Asian",
+  "kosher": false,
+  "reviews": [
+{
+  "data": "1/15/2021",
+  "score": 7
+}, {
+  "data": "8/3/2020",
+  "score": 7
+}, {
+  "data": "3/24/2021",
+  "score": 2
+}
+  ]
+}
+]
+}
